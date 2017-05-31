@@ -1,12 +1,7 @@
-/*******************************************************************************
- * Game Class Implementation                                                   *
- * Daniel Westrich, 2016 Spring)                                               *
- *****************************************************************************/
-
 /*
  * Name: Daniel Westrich
  * Title: game.cpp
- * Purpose: to run the pacman game
+ * Purpose: to define the Pacman game
  */
 
 #include <iostream>
